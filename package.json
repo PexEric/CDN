@@ -1,0 +1,19 @@
+{
+  "name": "pexeric-blogcdn",
+  "version": "1.0.0",
+  "description": "博客静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PexEric/CDN.git"
+  },
+  "author": "pexeric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PexEric/CDN/issues"
+  },
+  "homepage": "https://github.com/PexEric/CDN#readme"
+}
